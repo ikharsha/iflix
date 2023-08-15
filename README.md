@@ -31,8 +31,8 @@ Enthusiastic computer science student with a passion for exploration and continu
     
 
 ## Skills
-- **Technical Skills:** Python, PHP, SQL (MySQL), HTML, CSS, UIPath, Docker Hub, XAMPP, Hugging Face, NLPtoolkit,Azure services (Kubernetes, Event Hub,
-Stream Analytics,SQL Database)
+- **Technical Skills:** Python, PHP, SQL (MySQL), HTML, CSS, UIPath, Docker Hub, XAMPP, Hugging Face, NLPTK,Azure services (Kubernetes, Event Hub,
+Stream Analytics,SQL)
 - **Soft Skills:** Communication, Problem Solving, Critical Thinking, Adaptability, Teamwork, Time Management, Creativity, Attention to Detail, Continuous Learning, Leadership
 
 ## Projects
