@@ -50,5 +50,5 @@ Stream Analytics,SQL Database)
 
 ## References
 - GitHub: [ikharsha](https://github.com/ikharsha)
-- LINKEDIN: [HARSHA VARDHAN](https://github.com/ikharsha)
+- LINKEDIN: [HARSHA VARDHAN](www.linkedin.com/in/harsha-vardhan-331a02148)
 
