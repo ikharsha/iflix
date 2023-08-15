@@ -1,11 +1,11 @@
 
-# K. HARSHA VARDHAN
-- 📞 Phone: +91 9121727038
-- ✉️ Email: harshharsha360@gmail.com
+# GAURAV MISHRA
+- 📞 Phone: +91 631122194
+- ✉️ Email: gauravmishra1703@gmail.com
 - 🌍 Location: Hyderabad, Telangana
 
 ## PROFILE
-Enthusiastic computer science student with a passion for exploration and continuous learning. Proficient problem solver dedicated to finding feasible solutions. Eager to contribute my skills and knowledge to dynamic projects while pursuing opportunities for growth and innovation.
+Dedicated computer science student driven by an unwavering curiosity and a thirst for continuous learning. Proficient in tackling complex problems with a creative and analytical mindset. Committed to contributing my expertise to innovative projects that challenge my abilities and pave the way for personal and professional growth.
 
 ## Education
 - **Bachelor of Technology**                                                            
@@ -19,10 +19,6 @@ Enthusiastic computer science student with a passion for exploration and continu
   - PCM 11-12 Class(2018-2020)
 
 ## Work Experience
-- **Navrik Software Solution, Delhi, India**
-  - ML and Automation Intern
-  - March 20, 2023 - June 20, 2023
-  - Worked with UI Path for data extraction from bank statements, created bots for summarizing bank statements, and developed customized webpage templates. Utilized machine learning models for real-time applications.
 
 - **Cloud Service Freelance**
   - ProjectPro
@@ -31,24 +27,19 @@ Enthusiastic computer science student with a passion for exploration and continu
     
 
 ## Skills
-- **Technical Skills:** Python, PHP, SQL (MySQL), HTML, CSS, UIPath, Docker Hub, XAMPP, Hugging Face, NLPTK,Azure services (Kubernetes, Event Hub,
+- **Technical Skills:** Python, PHP, SQL (MySQL), HTML, CSS, UIPath, Docker Hub, XAMPP,,Azure services (Kubernetes, Event Hub,
 Stream Analytics,SQL)
 
 - **Soft Skills:** Communication, Problem Solving, Critical Thinking, Adaptability, Teamwork, Time Management, Creativity, Attention to Detail, Continuous Learning, Leadership
 
 ## Projects
-1. **ID-Classification Project using VGG16 Model**
-   - Developed an image classification model using VGG16 architecture to classify various types of documents.
-   - Utilized Python, TensorFlow, and Keras for model development and training.
+1. **INSTAGRAM REACH ANALYSIS**
+   - Instagram Reach Analysis using Python, which will help content creators to understand how to adapt to the changes in Instagram in the long run.
 
-2. **Document Generation Project**
-   - Led a database management project with modules for ID card, certificate, and report generation.
-   - Utilized HTML, CSS, PHP, Dompdf, and FPDF for PDF generation.
+2. **Loan Default Prediction Machine Learning Project**
+   - this project, will automate the loan eligibility process (real-time) based on customer details while filling the online application form. 
 
-3. **ICE DYNAMICS Prediction**
-   - Conducted a numerical study to optimize prediction algorithms for internal combustion engine performance.
-   - Employed regression techniques: Linear Regression, SVR, Bayesian Ridge, and Lasso Regression.
 
 ## References
-- GitHub: [GitHub Profile](https://github.com/ikharsha)
+- LINKEDIN: [GAURAV MISHRA](https://www.linkedin.com/in/gaurav-mishra-709709209)
 
