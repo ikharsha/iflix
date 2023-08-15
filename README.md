@@ -27,8 +27,8 @@ Enthusiastic computer science student with a passion for exploration and continu
 - **Cloud Service Freelance**
   - ProjectPro
   - Feb,2023- March,2023
-  -  Led the architectural workflow design for a data project hosted on Microsoft Azure cloud computing services,Collaborated with a team to implement cloud-based solution for Data Analytics and Metrics using some Azure services
-  -   Successfully uploaded, analyzed, and visualized dataset metrics using Prometheus and Grafana tools, contributing to improved data flow analysis.
+  -  Led the architectural workflow design for a data project hosted on Microsoft Azure cloud computing services,Collaborated with a team to implement cloud-based solution for Data Analytics and Metrics using some Azure services,Successfully uploaded, analyzed, and visualized dataset metrics using Prometheus and Grafana tools, contributing to improved data flow analysis.
+    
 
 ## Skills
 - **Technical Skills:** Python, PHP, SQL (MySQL), HTML, CSS, UIPath, Docker Hub, XAMPP, Hugging Face, NLPtoolkit,Azure services (Kubernetes, Event Hub,
