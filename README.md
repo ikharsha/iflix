@@ -10,7 +10,7 @@ Dedicated computer science student driven by an unwavering curiosity and a thirs
 - *Bachelor of Technology*                                                            
   - KG Reddy College of Engineering and Technology, Hyderabad, Telangana
   - Expected Graduation: June 2024
-  - Major: Computer Science and Engineering (AI and ML)
+  - Major: Computer Science and Engineering (DATA SCIENCE)
   
 - *SCHOOL*     *|* *Intermediate*                                                       
   - KENDRIYA VIDYALAYA NO:1 GOLCONDA, Hyderabad, Telangana
@@ -39,5 +39,3 @@ Stream Analytics,SQL)
    - this project, will automate the loan eligibility process (real-time) based on customer details while filling the online application form. 
 
 
-## References
-- LINKEDIN: [GAURAV MISHRA](https://www.linkedin.com/in/gaurav-mishra-709709209)
