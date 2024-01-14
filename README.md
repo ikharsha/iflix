@@ -20,7 +20,7 @@ Enthusiastic computer science student with a passion for exploration and continu
 
 ## Work Experience
 - **Cigniti Technologies, HYD, India**
-  - AI and developmenet Intern
+  - AI and development Intern
   - September 19, 2023 - December 19, 2023
   - worked on Implementing LLM models for Web Security,developed a prototype for Business Usecase.
   - Used Openai models for multipurpose Usecase.
