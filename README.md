@@ -19,6 +19,12 @@ Enthusiastic computer science student with a passion for exploration and continu
   - PCM 11-12 Class(2018-2020)
 
 ## Work Experience
+- **Cigniti Technologies, HYD, India**
+  - AI and developmenet Intern
+  - September 19, 2023 - December 19, 2023
+  - worked on Implementing LLM models for Web Security,developed a prototype for Business Usecase.
+  - Used Openai models for multipurpose Usecase.
+  - Designed and Developed Scripts for  Cloud Services Auditing.
 - **Navrik Software Solution, Delhi, India**
   - ML and Automation Intern
   - March 20, 2023 - June 20, 2023
@@ -30,9 +36,10 @@ Enthusiastic computer science student with a passion for exploration and continu
   -  Led the architectural workflow design for a data project hosted on Microsoft Azure cloud computing services,Collaborated with a team to implement cloud-based solution for Data Analytics and Metrics using some Azure services
   -   Successfully uploaded, analyzed, and visualized dataset metrics using Prometheus and Grafana tools, contributing to improved data flow analysis.
 
+
 ## Skills
 - **Technical Skills:** Python, PHP, SQL (MySQL), HTML, CSS, UIPath, Docker Hub, XAMPP, Hugging Face, NLPtoolkit,Azure services (Kubernetes, Event Hub,
-Stream Analytics,SQL Database)
+Stream Analytics,SQL Database), LINUX, OPENAI, LLM'S(fine-tuning), Web Security Vulnerabilities(Basics).
 - **Soft Skills:** Communication, Problem Solving, Critical Thinking, Adaptability, Teamwork, Time Management, Creativity, Attention to Detail, Continuous Learning, Leadership
 
 ## Projects
