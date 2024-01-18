@@ -22,9 +22,10 @@ Enthusiastic computer science student with a passion for exploration and continu
 - **Cigniti Technologies, HYD, India**
   - AI and development Intern
   - September 19, 2023 - December 19, 2023
-  - worked on Implementing LLM models for Web Security,developed a prototype for Business Usecase.
-  - Used Openai models for multipurpose Usecase.
-  - Designed and Developed Scripts for  Cloud Services Auditing.
+  - worked on Implementing LLM models for Web Security analysis ,developed a prototype for Business Usecase.
+  - Used Openai models and Langchain framework for multipurpose Usecase.
+  - Designed and Developed Scripts for Cloud Services Auditing.
+
 - **Navrik Software Solution, Delhi, India**
   - ML and Automation Intern
   - March 20, 2023 - June 20, 2023
@@ -38,8 +39,8 @@ Enthusiastic computer science student with a passion for exploration and continu
 
 
 ## Skills
-- **Technical Skills:** Python, PHP, SQL (MySQL), HTML, CSS, UIPath, Docker Hub, XAMPP, Hugging Face, NLPtoolkit,Azure services (Kubernetes, Event Hub,
-Stream Analytics,SQL Database), LINUX, OPENAI, LLM'S(fine-tuning), Web Security Vulnerabilities(Basics).
+- **Technical Skills:** Python, NLPtoolkit, PHP, SQL (MySQL), HTML, CSS, UIPath, Docker Hub, XAMPP, Hugging Face,Azure services (Kubernetes, Event Hub,
+Stream Analytics,SQL Database), LINUX, OPENAI, Large Language Models ,Langchain Framework, openai, Web Security Vulnerabilities(Basics), Git, github.
 - **Soft Skills:** Communication, Problem Solving, Critical Thinking, Adaptability, Teamwork, Time Management, Creativity, Attention to Detail, Continuous Learning, Leadership
 
 ## Projects
@@ -54,6 +55,7 @@ Stream Analytics,SQL Database), LINUX, OPENAI, LLM'S(fine-tuning), Web Security 
 3. **ICE DYNAMICS Prediction**
    - Conducted a numerical study to optimize prediction algorithms for internal combustion engine performance.
    - Employed regression techniques: Linear Regression, SVR, Bayesian Ridge, and Lasso Regression.
+  
 
 ## References
 - GitHub: [ikharsha](https://github.com/ikharsha)
