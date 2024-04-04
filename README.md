@@ -1,4 +1,3 @@
-
 # K. HARSHA VARDHAN
 - 📞 Phone: +91 9121727038
 - ✉️ Email: harshharsha360@gmail.com
@@ -20,10 +19,10 @@ Enthusiastic computer science student with a passion for exploration and continu
 
 ## Work Experience
 - **Cigniti Technologies, HYD, India**
-  - AI and development Intern
+  - AI and Development Intern
   - September 19, 2023 - December 19, 2023
-  - worked on Implementing LLM models for Web Security analysis ,developed a prototype for Business Usecase.
-  - Used Openai models and Langchain framework for multipurpose Usecase.
+  - Worked on Implementing LLM models for Web Security analysis, developed a prototype for Business Use case.
+  - Used OpenAI models and Langchain framework for a multipurpose Use case.
   - Designed and Developed Scripts for Cloud Services Auditing.
 
 - **Navrik Software Solution, Delhi, India**
@@ -34,13 +33,12 @@ Enthusiastic computer science student with a passion for exploration and continu
 - **Cloud Service Freelance**
   - ProjectPro
   - Feb,2023- March,2023
-  -  Led the architectural workflow design for a data project hosted on Microsoft Azure cloud computing services,Collaborated with a team to implement cloud-based solution for Data Analytics and Metrics using some Azure services
-  -   Successfully uploaded, analyzed, and visualized dataset metrics using Prometheus and Grafana tools, contributing to improved data flow analysis.
+  - Led the architectural workflow design for a data project hosted on Microsoft Azure cloud computing services. Collaborated with a team to implement a cloud-based solution for Data Analytics and Metrics using Azure services.
+  - Successfully uploaded, analyzed, and visualized dataset metrics using Prometheus and Grafana tools, contributing to improved data flow analysis.
 
 
 ## Skills
-- **Technical Skills:** Python, NLPtoolkit, PHP, SQL (MySQL), HTML, CSS, UIPath, Docker Hub, XAMPP, Hugging Face,Azure services (Kubernetes, Event Hub,
-Stream Analytics,SQL Database), LINUX, OPENAI, Large Language Models ,Langchain Framework, openai, Web Security Vulnerabilities(Basics), Git, github.
+- **Technical Skills:** Python, NLP Toolkit, PHP, SQL (MySQL), HTML, CSS, UIPath, Docker Hub, XAMPP, Hugging Face, Azure services (Kubernetes, Event Hub, Stream Analytics, SQL Database), LINUX, OPENAI, Large Language Models, Langchain Framework, Web Security Vulnerabilities (Basics), Git, GitHub.
 - **Soft Skills:** Communication, Problem Solving, Critical Thinking, Adaptability, Teamwork, Time Management, Creativity, Attention to Detail, Continuous Learning, Leadership
 
 ## Projects
@@ -59,4 +57,3 @@ Stream Analytics,SQL Database), LINUX, OPENAI, Large Language Models ,Langchain 
 
 ## References
 - GitHub: [ikharsha](https://github.com/ikharsha)
-
