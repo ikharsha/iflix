@@ -3,9 +3,6 @@
 - ✉️ Email: harshharsha360@gmail.com
 - 🌍 Location: Hyderabad, Telangana
 
-## PROFILE
-Enthusiastic computer science student with a passion for exploration and continuous learning. Proficient problem solver dedicated to finding feasible solutions. Eager to contribute my skills and knowledge to dynamic projects while pursuing opportunities for growth and innovation.
-
 ## Education
 - **Bachelor of Technology**                                                            
   - KG Reddy College of Engineering and Technology, Hyderabad, Telangana
